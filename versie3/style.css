@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+#image-header {
+    display: flex;
+    justify-content: flex-start;
+    height: 500px;
+    align-items: flex-end;
+    background-position: 0px;
+
+    background: linear-gradient( rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('http://www.artis.nl/media/filer_public/67/c5/67c570c9-83b1-4490-a2db-fb88ecc73ef6/leeuwen_1920x1080.jpg') 0px 0px/cover no-repeat;
+}
